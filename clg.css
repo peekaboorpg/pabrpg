@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Caramel';
+    src: url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Caramel-Regular.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Caramel-Regular.woff') format('woff'),
+        url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Caramel-Regular.ttf') format('truetype'),
+        url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Caramel-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lonely Ghost';
+    src: url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Lonely-Ghost.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Lonely-Ghost.woff') format('woff'),
+        url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Lonely-Ghost.ttf') format('truetype'),
+        url('https://cdn.rawgit.com/peekaboorpg/pabrpg/blob/main/Lonely-Ghost.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
